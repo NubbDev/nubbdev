@@ -1,5 +1,5 @@
 <h1 align="center">Nubb is my name, Hello 👋</h1>
-<h3 align="center">Aspiring to become a Top Tier Front-End Web Developer 💻</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=nubbdev&label=Profile%20views&color=0e75b6&style=flat" alt="nubbdev" /> </p>
+<h3 align="center">Aspiring to become a Top Tier Front-End Web Developer 💻</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=nubbdev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nubbdev" /> </p>
 
 <p align=center>
 - 🔭 I’m currently working on [Forestblock](https://github.com/ForestblockMC)
