@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Forestblock](https://github.com/ForestblockMC)
 </p>
 <p align=center>
-- 🌱 I’m currently learning **TypeScript, React and MySQL**
+- 🌱 I’m currently learning **TypeScript, React and MongoDB**
 </p>
 <p align=center>
 - 💬 Ask me about **HTML, SASS, CSS**
