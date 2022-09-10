@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **TypeScript, React and MongoDB**
 </p>
 <p align=center>
-- 💬 Ask me about **HTML, SASS, CSS**
+- 💬 Ask me about **React, JS, HTML, CSS**
 </p>
 <p align=center>
 - 📫 How to reach me **busy.nuub@gmail.com**
