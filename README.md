@@ -1,5 +1,5 @@
 <h1 align="center">Nubb is my name, Hello 👋</h1>
-<h3 align="center">Aspiring to become a Top Tier Front-End Web Developer 💻</h3> 
+<h3 align="center">Aspiring to become a Top Tier Fullstack Developer 💻</h3> 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=nubbdev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nubbdev" /> 
     <a href="https://wakatime.com/@1110ae68-a08c-44d8-a828-5c40de88884a"><img src="https://wakatime.com/badge/user/1110ae68-a08c-44d8-a828-5c40de88884a.svg?style=for-the-badge" alt="Total time coded since Oct 25 2022" /></a>
