@@ -6,19 +6,19 @@
 </p>
 
 <p align=center>
-- 🔭 I’m currently working on [Forestblock](https://github.com/ForestblockMC)
+    - 🔭 I’m currently working on <a href="https://github.com/ForestblockMC">Forestblock</a>
 </p>
 <p align=center>
-- 🌱 I’m currently learning **TypeScript, React and MongoDB**
+- 🌱 I’m currently learning <b>TypeScript</b>, <b>React</b> and <b>MongoDB</b>
 </p>
 <p align=center>
-- 💬 Ask me about **React, JS, HTML, CSS**
+- 💬 Ask me about <b>Anything</b>
 </p>
 <p align=center>
-- 📫 How to reach me **busy.nuub@gmail.com**
+- 📫 How to reach me <b>busy.nuub@gmail.com</b>
 </p>
 <p align=center>
-- ⚡ Fun fact **I'm Canadian**
+- ⚡ Fun fact <b>I'm Canadian</b>
 </p>
 
 
