@@ -1,27 +1,17 @@
-<h1 align="center">Nubb is my name, Hello 👋</h1>
-<h3 align="center">Aspiring to become a Top Tier Fullstack Developer 💻</h3> 
-<p align="center"> 
+<h1 align="left">Nubb is my name, Hello 👋</h1>
+<h3 align="left">Aspiring to become a Top Tier Fullstack Developer 💻</h3> 
+<p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=nubbdev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nubbdev" /> 
     <a href="https://wakatime.com/@1110ae68-a08c-44d8-a828-5c40de88884a"><img src="https://wakatime.com/badge/user/1110ae68-a08c-44d8-a828-5c40de88884a.svg?style=for-the-badge" alt="Total time coded since Oct 25 2022" /></a>
 </p>
 
-<p align=center>
-    - 🔭 I’m currently working on <a href="https://github.com/ForestblockMC">Forestblock</a>
+<p align="left">
+    - 🔭 I’m currently working on <b><a href="https://github.com/ForestblockMC">Forestblock</a></b> & <b><a href="https://github.com/That-One-Bot">That One Discord Bot</a></b></br>
+    - 🌱 I’m currently learning <b>TypeScript</b>, <b>React</b> and <b>MongoDB</b> </br>
+    - 💬 Ask me about <b>Anything</b> </br>
+    - 📫 How to reach me <b>busy.nuub@gmail.com</b> </br>
+    - ⚡ Fun fact <b>I'm Canadian</b> </br>
 </p>
-<p align=center>
-- 🌱 I’m currently learning <b>TypeScript</b>, <b>React</b> and <b>MongoDB</b>
-</p>
-<p align=center>
-- 💬 Ask me about <b>Anything</b>
-</p>
-<p align=center>
-- 📫 How to reach me <b>busy.nuub@gmail.com</b>
-</p>
-<p align=center>
-- ⚡ Fun fact <b>I'm Canadian</b>
-</p>
-
-
 
 <h2 align="left">Experience</h2>
 <p align="left"> 
