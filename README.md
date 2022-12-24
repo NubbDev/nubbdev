@@ -9,7 +9,7 @@
     - 🔭 I’m currently working on <b><a href="https://github.com/ForestblockMC">Forestblock</a></b> & <b><a href="https://github.com/That-One-Bot">That One Discord Bot</a></b></br>
     - 🌱 I’m currently learning <b>TypeScript</b>, <b>React</b> and <b>MongoDB</b> </br>
     - 💬 Ask me about <b>Anything</b> </br>
-    - 📫 How to reach me <b>busy.nuub@gmail.com</b> </br>
+    - 📫 How to reach me <b><a href="mailto:busy.nuub@gmail.com">busy.nuub@gmail.com</a></b> </br>
     - ⚡ Fun fact <b>I'm Canadian</b> </br>
 </p>
 
