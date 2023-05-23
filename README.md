@@ -14,8 +14,7 @@
 </p>
 
 <h2 align="left">Main Languages</h2>
-<p align="left"> 
-    <h4>Advanced</h4>
+<p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NubbDev/nubbdev/main/typescript.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NubbDev/nubbdev/main/kotlin.svg" alt="kotlin" width="40" height="40"/> </a> 
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NubbDev/nubbdev/main/rust.svg" alt="rust" width="40" height="40"/> </a> 
