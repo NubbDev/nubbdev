@@ -23,7 +23,7 @@
 <h2 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://codepen.io/nubbdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nubbdev" height="30" width="40" /></a>
-    <a href="https://twitter.com/itsnubb_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsnubb_" height="30" width="40" /></a>
+    <a href="https://twitter.com/gil_o7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsnubb_" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/18220752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18220752" height="30" width="40" /></a>
     <a href="https://instagram.com/sub2nubb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sub2nubb" height="30" width="40" /></a>
 </p>
