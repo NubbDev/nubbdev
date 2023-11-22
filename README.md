@@ -17,6 +17,7 @@
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NubbDev/nubbdev/main/typescript.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NubbDev/nubbdev/main/kotlin.svg" alt="kotlin" width="40" height="40"/> </a> 
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NubbDev/nubbdev/main/python.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NubbDev/nubbdev/main/rust.svg" alt="rust" width="40" height="40"/> </a> 
 </p>
 
@@ -30,8 +31,3 @@
 
 <h2 align="left">Support:</h3>
     <p><a href="https://www.buymeacoffee.com/nubb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nubb" /></a></p><br><br>
-
-<p><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Nubb/86dfe76f-eff7-4fb9-8a92-1dfc349192da.svg" width="500"/></a></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NubbDev&show_icons=true&locale=en" alt="nubbdev" /></p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/401844809385508903)](https://discord.com/users/401844809385508903)
-
