@@ -9,7 +9,7 @@
     - 🔭 I’m currently working on <b><a href="https://github.com/team5009/Hyperion">Hyperion</a></b></br>
     - 🌱 I’m currently learning <b>Rust</b> </br>
     - 💬 Ask me about <b>Anything</b> </br>
-    - 📫 How to reach me <b><a href="mailto:busy.nuub@gmail.com">busy.nuub@gmail.com</a></b> </br>
+    - 📫 How to reach me <b><a href="mailto:busy@nubbless.me">busy@nubbless.me</a></b> </br>
     - ⚡ Fun fact <b>I'm Canadian</b> </br>
 </p>
 
