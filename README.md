@@ -31,3 +31,5 @@
 
 <h2 align="left">Support:</h3>
     <p><a href="https://www.buymeacoffee.com/nubb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nubb" /></a></p><br><br>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nubb/2d07c32b-e445-4764-a06b-2812d73d35f4.png" /></a>
