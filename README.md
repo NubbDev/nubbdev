@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-    - 🔭 I’m currently working on <b><a href="https://github.com/team5009/Hyperion">Hyperion</a></b></br>
+    - 🔭 I’m currently working on <b><a href="[https://github.com/team5009/Hyperion](https://github.com/orgs/Beabadoobee-Fanclub/repositories)">BeaBot</a></b></br>
     - 🌱 I’m currently learning <b>Rust</b> </br>
     - 💬 Ask me about <b>Anything</b> </br>
     - 📫 How to reach me <b><a href="mailto:busy@nubbless.me">busy@nubbless.me</a></b> </br>
@@ -15,8 +15,8 @@
 
 <h2 align="left">Main Languages</h2>
 <p align="left">
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NubbDev/nubbdev/main/typescript.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NubbDev/nubbdev/main/rust.svg" alt="rust" width="40" height="40"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NubbDev/nubbdev/main/typescript.svg" alt="typescript" width="40" height="40"/> </a>
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NubbDev/nubbdev/main/kotlin.svg" alt="kotlin" width="40" height="40"/> </a> 
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/NubbDev/nubbdev/main/python.svg" alt="python" width="40" height="40"/> </a>
 </p>
