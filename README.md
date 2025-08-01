@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-    - 🔭 I’m currently working on <b><a href="[https://github.com/team5009/Hyperion](https://github.com/orgs/Beabadoobee-Fanclub/repositories)">BeaBot</a></b></br>
+    - 🔭 I’m currently working on <b><a href="https://github.com/orgs/Beabadoobee-Fanclub/repositories">BeaBot</a></b></br>
     - 🌱 I’m currently learning <b>Rust</b> </br>
     - 💬 Ask me about <b>Anything</b> </br>
     - 📫 How to reach me <b><a href="mailto:busy@nubbless.me">busy@nubbless.me</a></b> </br>
